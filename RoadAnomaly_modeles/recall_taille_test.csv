@@ -1,0 +1,6 @@
+,"< 0,1 % (0)","0,1 – 1 % (8)",1 – 5 % (5),> 5 % (2),tous (15)
+Modèle 1 : U-Net,,0.62,0.8,1.0,0.73
+Modèle 2 : U-Net sans augmentation,,0.5,0.2,0.5,0.4
+Modèle 3 : type FCN,,0.5,0.4,1.0,0.53
+Modèle 4 : U-Net + ResNet50,,1.0,0.6,1.0,0.87
+Modèle 5 : DeepLabV3+,,1.0,1.0,1.0,1.0

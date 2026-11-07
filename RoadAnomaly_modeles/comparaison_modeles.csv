@@ -1,0 +1,6 @@
+modèle,paramètres entraînés,epochs,meilleure epoch,loss validation,Dice validation,Dice entraînement,écart Dice,durée (min)
+Modèle 5 : DeepLabV3+,9234737,45,25,0.4776,0.7181,0.9192,0.201,6.7
+Modèle 4 : U-Net + ResNet50,2228465,72,52,0.5252,0.711,0.9286,0.2176,8.6
+Modèle 1 : U-Net,1962625,99,79,0.9231,0.4053,0.5655,0.1602,9.5
+Modèle 2 : U-Net sans augmentation,1962625,57,37,0.9898,0.3802,0.4801,0.1,5.6
+Modèle 3 : type FCN,1766785,82,62,0.9906,0.3567,0.5072,0.1505,7.1

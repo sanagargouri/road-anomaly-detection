@@ -1,0 +1,16 @@
+# Dataset (non redistribué : voir le lien dans le README)
+data/
+RoadAnomaly.zip
+
+# Poids des modèles (trop lourds pour GitHub : plus de 100 Mo pour certains)
+RoadAnomaly_modeles/*.h5
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+RoadAnomaly_exploration_vscode.ipynb
